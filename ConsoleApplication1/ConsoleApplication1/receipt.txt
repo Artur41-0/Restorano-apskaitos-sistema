@@ -1,0 +1,9 @@
+--- SASKAITA ---
+
+2  Kiausiniene                        2.90 EUR
+4  Sonine_su_kiausiniu                9.80 EUR
+1  Prancuziskas_skrebutis             1.99 EUR
+
+---------------------------------------
+Mokesciai (21%):                      3.08 EUR
+Galutine suma:                        17.77 EUR

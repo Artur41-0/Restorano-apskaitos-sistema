@@ -1,0 +1,8 @@
+Kiausiniene 1.45
+Sonine_su_kiausiniu 2.45
+Keksiukas_su_vysnia 0.99
+Prancuziskas_skrebutis 1.99
+Vaisiu_salotos 2.49
+Pusryciu_dribsniai 0.69
+Kava 0.50
+Arbata 0.75
